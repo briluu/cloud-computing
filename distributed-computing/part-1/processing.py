@@ -42,4 +42,3 @@ def get_avg_pop(city):
     	num_tracts += 1
  
     return total_pop / num_tracts
-dfsafdfsfsad
